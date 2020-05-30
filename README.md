@@ -1,1 +1,2 @@
-# DailyAdamG.github.io
+# Web-Design-Challenge
+Web Design HW
